@@ -4,7 +4,8 @@ Author:Kibunja Brian Njuguna
 Reg No:BSE-05-0188/2024
 Date:25/01/2024
 Version: Mobile Voting System
-*/#include <iostream>
+*/
+#include <iostream>
 #include <fstream>
 #include <map>
 #include <string>
